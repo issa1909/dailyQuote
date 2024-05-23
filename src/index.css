@@ -1,0 +1,38 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f4f4f4;
+}
+
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.quote {
+  margin: 20px auto;
+  width: 80%;
+  padding: 20px;
+  font-size: 22px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color:black;  
+  background-color: rgba(255, 255, 255, 0.8);
+
+
+}
+
+button {
+  padding: 10px 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
